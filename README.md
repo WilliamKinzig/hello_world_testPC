@@ -35,3 +35,23 @@ _{Tell me about the languages and tools you used to create this app. Assume that
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 
 Copyright (c) 2016 **_{List of contributors or company name}_**
+
+<!-- Github Profiles
+When you apply for a job or internship, employers will want to see code you've written so that they know what you're capable of doing. Spend some time getting your GitHub profile looking good. Make sure every repository has a README file that:
+
+Explains what the project does;
+Explains how to set everything up, if someone clones it;
+Provides information about the goals of the project. (What you were working on and what you were trying to learn);
+Is well-organized with markdown headers;
+Includes screenshots (prioritize for bigger projects like code reviews, group projects, capstone, etc);
+Provides a link to the live site (GitHub Pages, Heroku, etc); and optionally,
+Includes any known issues with the code, and a roadmap for features you'd like to build.
+Go through all files in each repository and make sure that there aren't large sections of commented-out code, bad indentation, extra line breaks, or anything else that looks less than professional.
+
+Pin a couple of your best projects to the "pinned repositories" section, so employers can more easily view the work you'd like them to see.
+
+Don't delete too many of your repositories, as it will get rid of the commit history, and employers value being able to see the amount of work that you've done. Pinning repos helps to highlight some of your more finished projects.
+
+Later on, also make sure to fork your internship project, so that you have a copy of it on your profile for employers to see.
+
+You might read these articles on the importance of your GitHub profile to employers. -->
