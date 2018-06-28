@@ -1,0 +1,26 @@
+
+
+
+/* Here, we're saying that if the user is viewing our site on a screen, whose viewport is no larger than 768 pixels, the background will be black and the font will be white. */
+@media screen and (max-width: 768px) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
+
+
+
+
+/* media type and a media feature */
+/* @media screen and (max-width: 768px) {
+
+} */
+
+/* @media screen () {
+
+} */
+
+/* @media (when) {
+  CSS that will be applied when the conditions we define are true
+} */
