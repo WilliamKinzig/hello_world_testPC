@@ -1,0 +1,15 @@
+img {
+  float: left;
+  padding: 30px;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+
+.column {
+  width: 150px;
+  float: left;
+}
